@@ -7,7 +7,7 @@
 
     <form action="https://jumprock.co/mail/{{ $page->services->jumprock }}" method="post">
         <div>
-            <label for="name">Name</label><br>
+            <label for="name">First name and last name</label><br>
             <input type="text" name="name" id="name" required>
         </div>
 
